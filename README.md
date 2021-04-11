@@ -20,6 +20,7 @@ Scriptable is an app that lets you add cool, lightweight widgets as well as auto
   - [📖 How to use scriptable widgets?](#-how-to-use-scriptable-widgets)
   - [✍️ Feedback](#️-feedback)
 
+<br/>
 
 ## ❏ List of widgets
 ### Covid Tracker India
