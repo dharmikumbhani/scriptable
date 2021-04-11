@@ -3,10 +3,12 @@ Gives you a well deserved insult.
 
 <img alt="Evil Insult" align="center" src="../images/insulter/InsulterIPhoneMockup.png" style="max-width:700px;width:100%"/>
 
+<br/><br/>
 
 ## 🙇 Why i made this?
 Even i am not sure why.  
 
+<br/><br/>
 
 ## 📖 How to use?
 1. **Download** [scriptable app](https://apps.apple.com/in/app/scriptable/id1405459188).
@@ -16,6 +18,7 @@ Even i am not sure why.
 5. Select widget size (preferable medium widget) and click on **[+ Add widget]**
 6. Configure the newly added widget as [given below](#️-configure).  
 
+<br/><br/>
 
 ## ⚙️ Configure
 **Long press** on the widget and click on **Edit Widget ⓘ**
@@ -28,19 +31,24 @@ Even i am not sure why.
 Like so:
 <img alt="Insulter Configuration" align="center" src="../images/insulter/InsulterConfig.png" style="max-width:300px;width:100%"/>  
 
+<br/><br/>
 
 ## ✍️ Feedback
 If you have any feature request or feedback on this feel free to DM me on [Twitter](https://twitter.com/DharmiKumbhani) or mail me at <dharmikumbhani201@gmail.com>
 widgets that can help us passively learn things should not be just limited to facts; but to various other domains as well, if you have any such idea in mind, feel free to reach out to me!  
 
+<br/><br/>
 
 ## 🔮 Future updates planned with this widget
 Based on response and other time based factors my current plan includes:
 - [ ] Delete this stupid widget.  
 
+<br/><br/>
 
 ## ⭐️ Other Credits:
 This widget uses the [Evil Insults](https://evilinsult.com) API which is an [open source](https://github.com/EvilInsultGenerator/) initiative.  
+
+<br/><br/>
 
 ---
 <div align="center">
