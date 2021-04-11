@@ -70,6 +70,8 @@ This script uses the [periodic table json](https://github.com/Bowserinator/Perio
 
 <br/>
 
+---
+
 <div align="center">
   Made with 💙 for fun 😉 - DK
 </div>
