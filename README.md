@@ -7,6 +7,8 @@ Collection of widgets and scripts made using scriptable app for iOS
 
 Scriptable is an app that lets you add cool, lightweight widgets as well as automation to your apple devices.
 
+<br/>
+
 ## Table of Contents
   - [❏ List of widgets](#-list-of-widgets)
     - [Covid Tracker India](#covid-tracker-india)
@@ -63,7 +65,7 @@ Shows a random quote from famous people like Alber Einstein, John Wolfgang von G
 
 Well gives you a rather intresting fact adout a randomly generated number.
 
----
+<br/>
 
 ## 📖 How to use scriptable widgets?
 1. Download the [scriptable app](https://apps.apple.com/in/app/scriptable/id1405459188).
@@ -78,13 +80,16 @@ Well gives you a rather intresting fact adout a randomly generated number.
     | Parameters | Text | Configurable options, depending on widgets  |
 6. More info and configurable options (if any) are availble in the respective folders of widgets.
 
----
+<br/>
 
 ## ✍️ Feedback
 If you have any feature/widget request or feedback on this feel free to DM me on [Twitter](https://twitter.com/DharmiKumbhani) or mail me at <dharmikumbhani201@gmail.com>
 widgets that can help us passively learn things should not be just limited to facts; but to various other domains as well, if you have any such idea in mind, feel free to reach out to me! 
 
---- 
+<br/>
+
+---
+
 <div align="center">
   Made with 💙 for fun 😉 - DK
 </div>
