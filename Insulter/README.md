@@ -30,6 +30,7 @@ Even i am not sure why.
 | Parameters | Text | NA |
 
 Like so:
+
 <img alt="Insulter Configuration" align="center" src="../images/insulter/InsulterConfig.png" style="max-width:300px;width:100%"/>  
 
 <br/>
