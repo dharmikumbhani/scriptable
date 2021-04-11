@@ -28,6 +28,7 @@ Even i am not sure why.
 | Script     | Choose | Insulter|
 | While Interacting (optional)  | Open App | Run Script |
 | Parameters | Text | NA |
+
 Like so:
 <img alt="Insulter Configuration" align="center" src="../images/insulter/InsulterConfig.png" style="max-width:300px;width:100%"/>  
 
