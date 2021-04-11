@@ -25,36 +25,42 @@ Scriptable is an app that lets you add cool, lightweight widgets as well as auto
 
 
 ![iOS widget](./images/badges/small-widget-badge.svg)
+
 Shows the latest number of newly confirmed cases and no of revcovered patients from any state in India.
 
 ### Covid Tracker India v2
 ![Covid Tracker India Widget](./images/covidTrackerIndiaV2/CovidTrackerIndia-V2-display.png)
 
 ![iOS widget](./images/badges/small-widget-badge.svg)
+
 Displays the latest number of cofirmed cases for any state in India along with a graph depciting the trend for the number of cases for the last 7 days.
 
 ### Insulter 
 ![Evil Insults](./images/insulter/InsulterDisplay.png)
 
 ![iOS widget](./images/badges/medium-widget-badge.svg)
+
 Petty self explanatory - Gives you a well deserved insult.
 
 ### Periodic Table 
 ![Periodic Table Flashcard](./images/periodicTable/PeriodicTableDisplay.png)
 
 ![iOS widget](./images/badges/large-widget-badge.svg)
+
 Get details about an element from the periodic table
 
 ### Quotes 
 ![Quotes Widget](./images/quotes/QuotesDisplay.png) 
 
 ![iOS widget](./images/badges/medium-widget-badge.svg)
+
 Shows a random quote from famous people like Alber Einstein, John Wolfgang von Goethe 
 
 ### Random Number Fact 
 ![Random Number Fact Widget](./images/RandomNumberFact/RandomNumberFactDisplay.png) 
 
 ![iOS widget](./images/badges/medium-widget-badge.svg)
+
 Well gives you a rather intresting fact adout a randomly generated number.
 
 ---
