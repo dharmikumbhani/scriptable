@@ -2,7 +2,7 @@
 Collection of widgets and scripts made using scriptable app for iOS
 
 ![Scriptable App](./images/badges/scriptableBadge.svg) &nbsp; ![iOS](./images/badges/iOS-badge.svg)
-<img alt="Scriptable widgets" align="center" src="./images/Main%20Mockup.png" />
+<img alt="Scriptable widgets" align="center" src="https://github.com/dharmikumbhani/scriptable/blob/main/images/Main%20Mockup.png" />
  <!-- [![twitter](https://awesome.re/badge-flat.svg)](https://awesome.re) -->
 
 Scriptable is an app that lets you add cool, lightweight widgets as well as automation to your apple devices.
