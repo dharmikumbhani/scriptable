@@ -1,4 +1,4 @@
-# Scriptable - scripts and wigets for iOS 
+# Scriptable - scripts and widgets for iOS 
 Collection of widgets and scripts made using scriptable app for iOS
 
 ![Scriptable App](./images/badges/scriptableBadge.svg) &nbsp; ![iOS](./images/badges/iOS-badge.svg)
