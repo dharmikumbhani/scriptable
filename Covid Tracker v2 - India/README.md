@@ -1,5 +1,5 @@
 ## Covid Tracker v2 India - Widget
-Displays the latest number of cofirmed cases for any state in India along with a graph depciting the trend for the number of cases for the last 7 days.
+Displays the latest number of confirmed cases for any state in India along with a graph depicting the trend for the number of cases for the last 7 days.
 
 <img alt="Covid Tracker India v2" align="center" src="../images/covidTrackerIndiaV2/covidTrackerIndiav2IphoneMockup.png" style="max-width:700px;width:100%"/>
 
