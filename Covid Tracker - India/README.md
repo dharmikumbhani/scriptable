@@ -1,5 +1,5 @@
 ## Covid Tracker India - Widget
-Shows the latest number of newly confirmed cases and no of revcovered patients from any state in India.
+Shows the latest number of newly confirmed cases and no of recovered patients from any state in India.
 
 <img alt="Covid Tracker India" align="center" src="../images/covidTrackerIndia/covidTrackerIphoneMockup.png" style="max-width:700px;width:100%"/>
 
