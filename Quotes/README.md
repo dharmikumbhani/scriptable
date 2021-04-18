@@ -1,5 +1,5 @@
 ## Quotes - Widget
-This widget after every some interval gets you a enligntning quote:
+This widget after every some interval gets you an illuminating quote:
 
 <img alt="Quotes widget in iPhone" align="center" src="../images/quotes/QuotesIphoneMockup.png" style="max-width:700px;width:100%"/>
 
