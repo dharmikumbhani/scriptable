@@ -38,7 +38,7 @@ Depending on the parameter the widget will display any of the selected type. i.e
 | :------------- |:------------- |:-------------|
 | Script     | Choose | notion-re-reads|
 | While Interacting (optional)  | Open App | Run Script |
-| Parameters | Text | "paragraph", "heading_1", "heading_2", "heading_3", "bulleted_list_item", "numbered_list_item", "to_do" |
+| Parameters | Text | "quote", "paragraph", "heading_1", "heading_2", "heading_3", "bulleted_list_item", "numbered_list_item", "to_do" |
 
 Like so:
 
