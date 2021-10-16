@@ -6,8 +6,6 @@
 ## Table of Contents
   - [❏ List of widgets](#-list-of-widgets)
     - [re-reads](#re-reads)
-  - [📖 How to use scriptable widgets?](#-how-to-use-scriptable-widgets)
-  - [✍️ Feedback](#️-feedback)
 
 <br/>
 
