@@ -1,5 +1,5 @@
-# Notion x Scriptable Integration
-<img alt="Evil Insult" align="center" src="../images/notionIntegrations/NotionxScriptable.png" style="max-width:700px;width:100%"/>
+# Notion x Scriptable Integrations
+<img alt="Notion with Scriptable" align="center" src="../images/notionIntegrations/NotionxScriptable.png" style="max-width:700px;width:100%"/>
 
 <br/>
 
