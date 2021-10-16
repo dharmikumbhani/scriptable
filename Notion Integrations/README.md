@@ -11,7 +11,7 @@
 
 <br/>
 
-## [re-reads](https://github.com/dharmikumbhani/scriptable/tree/main/)
+## [re-reads](https://github.com/dharmikumbhani/scriptable/tree/main/Notion%20Integrations/re-reads)
 ![Notion x Scriptable](../images/notionIntegrations/re-reads/NotionReReadsDisplay.png)
 
 ![iOS widget](../images/badges/large-widget-badge.svg)
