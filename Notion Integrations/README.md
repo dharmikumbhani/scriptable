@@ -1,5 +1,5 @@
 # Notion x Scriptable Integrations
-<img alt="Notion with Scriptable" align="center" src="../images/notionIntegrations/NotionxScriptable.png" style="max-width:700px;width:100%"/>
+<img alt="Notion with Scriptable" align="center" src="../images/notionIntegrations/NotionxScriptable.png" style="max-width:700px"/>
 
 <br/>
 
