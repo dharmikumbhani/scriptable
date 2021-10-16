@@ -25,7 +25,7 @@ Scriptable is an app that lets you add cool, lightweight widgets as well as auto
 <br/>
 
 ## ❏ List of widgets
-### [Notion Integrations](https://github.com/dharmikumbhani/scriptable/tree/notion_integrations/Notion%20Integrations)
+### [Notion Integrations](https://github.com/dharmikumbhani/scriptable/tree/main/Notion%20Integrations)
 ![Notion x Scriptable](images/notionIntegrations/NotionxScriptable.png) 
 
 
