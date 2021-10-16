@@ -1,7 +1,7 @@
-## Notion - Widget
+## notion-re-reads Widget
 Brings your re-reads (quotes, phrases, one liners from books you found while reading a book) to you **passively** instead of having to actively take time out and going through them.
 
-<img alt="Evil Insult" align="center" src="../images/../../images/notionIntegrations/re-reads/notion-re-reads-mockup.png" style="max-width:700px;width:100%"/>
+<img alt="Notion-re-readsxscriptable" align="center" src="../images/../../images/notionIntegrations/re-reads/notion-re-reads-mockup.png" style="width:600px"/>
 
 <br/>
 
