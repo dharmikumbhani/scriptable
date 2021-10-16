@@ -47,7 +47,7 @@ Theoretically this suggestion was great but practically for me it proved quiet u
 
 Like so:
 
-<img alt="Periodic Table Configuration" align="center" src="../images/periodicTable/PeriodicTableConfig.png" style="max-width:300px;width:100%"/>
+<img alt="Periodic Table Configuration" align="center" src="../images/periodicTable/PeriodicTableConfig.png" style="max-width:300px"/>
 
 <br/>
 

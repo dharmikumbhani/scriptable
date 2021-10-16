@@ -2,7 +2,8 @@
 Collection of widgets and scripts made using scriptable app for iOS
 
 ![Scriptable App](./images/badges/scriptableBadge.svg) &nbsp; ![iOS](./images/badges/iOS-badge.svg)
-<img alt="Scriptable widgets" align="center" src="https://github.com/dharmikumbhani/scriptable/blob/main/images/Main%20Mockup.png" />
+<!-- <img alt="Scriptable widgets" align="center" src="https://github.com/dharmikumbhani/scriptable/blob/main/images/Main%20Mockup.png" /> -->
+<img alt="Scriptable widgets" align="center" src="images/Main Mockup.png" />
  <!-- [![twitter](https://awesome.re/badge-flat.svg)](https://awesome.re) -->
 
 Scriptable is an app that lets you add cool, lightweight widgets as well as automation to your apple devices.
@@ -11,6 +12,7 @@ Scriptable is an app that lets you add cool, lightweight widgets as well as auto
 
 ## Table of Contents
   - [❏ List of widgets](#-list-of-widgets)
+    - [Notion Integrations](#notion-integrations)
     - [Covid Tracker India](#covid-tracker-india)
     - [Covid Tracker India v2](#covid-tracker-india-v2)
     - [Insulter](#insulter)
@@ -23,6 +25,14 @@ Scriptable is an app that lets you add cool, lightweight widgets as well as auto
 <br/>
 
 ## ❏ List of widgets
+### [Notion Integrations](https://github.com/dharmikumbhani/scriptable/tree/main/Notion%20Integrations)
+![Notion x Scriptable](images/notionIntegrations/NotionxScriptable.png) 
+
+
+<!-- ![iOS widget](./images/badges/large-widget-badge.svg) -->
+Scriptable widgets made using the Notion API.
+
+
 ### [Covid Tracker India](https://github.com/dharmikumbhani/scriptable/tree/main/Covid%20Tracker%20-%20India)
 ![Covid Tracker India Widget](./images/covidTrackerIndia/Covid-tracker-display-image.png) 
 

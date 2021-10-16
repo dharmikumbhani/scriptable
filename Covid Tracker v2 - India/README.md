@@ -31,7 +31,7 @@ After making the [first version](./../Covid%20Tracker%20-%20India) i was experim
 
 Like so for Maharashtra:
 
-<img alt="Covid Tracker India Configuration" align="center" src="../images/covidTrackerIndiaV2/CovidTrackerIndiav2Config.png" style="max-width:300px;width:100%"/>
+<img alt="Covid Tracker India Configuration" align="center" src="../images/covidTrackerIndiaV2/CovidTrackerIndiav2Config.png" style="max-width:300px"/>
 
 <br/>
 

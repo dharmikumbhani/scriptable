@@ -31,7 +31,7 @@ I just came across scriptable and was intrigued by it. I have no idea about swif
 
 Like so:
 
-<img alt="Quotes Configuration" align="center" src="../images/RandomNumberFact/RandomNumberFactConfig.png" style="max-width:300px;width:100%"/>
+<img alt="Quotes Configuration" align="center" src="../images/RandomNumberFact/RandomNumberFactConfig.png" style="width:100%; max-width:300px"/>
 
 <br/>
 

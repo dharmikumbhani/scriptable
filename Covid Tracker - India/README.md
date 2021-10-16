@@ -31,7 +31,7 @@ A perfect blend of boredom and fear of second wave lead to the creation of this.
 
 Like so for Maharashtra:
 
-<img alt="Covid Tracker India Configuration" align="center" src="../images/covidTrackerIndia/CovidTrackerIndiaConfig.png" style="max-width:300px;width:100%"/>
+<img alt="Covid Tracker India Configuration" align="center" src="../images/covidTrackerIndia/CovidTrackerIndiaConfig.png" style="max-width:300px"/>
 
 <br/>
 
