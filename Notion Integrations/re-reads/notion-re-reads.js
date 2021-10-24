@@ -19,7 +19,7 @@ Actions     :
 const NOTION_LINK = ""
 // eg. const NOTION_LINK = "https://www.notion.so/re-reads-9d7ca77104ab4cd198b925711e010860"
 const BEARER_TOKEN = ""
-// eg. const BEARER_TOKEN = "Bearer secret_8cjBVUGCUJs82wu1zQ3hKbiSZ1A6Z2r3AutslyTgrrA"
+// eg. const BEARER_TOKEN = "Bearer secret_8********Js82wu1zQ********A6Z2r***tslyTgrrA"
 
 //##################################################################
 
