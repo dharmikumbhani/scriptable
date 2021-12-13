@@ -32,7 +32,7 @@ Scriptable is an app that lets you add cool, lightweight widgets as well as auto
 <!-- ![iOS widget](./images/badges/large-widget-badge.svg) -->
 Scriptable widgets made using the Notion API.
 
-
+⚠️ Due to recent [closure](https://blog.covid19india.org/2021/08/07/end/) of the covid tracker API, the following widgets might not work!
 ### [Covid Tracker India](https://github.com/dharmikumbhani/scriptable/tree/main/Covid%20Tracker%20-%20India)
 ![Covid Tracker India Widget](./images/covidTrackerIndia/Covid-tracker-display-image.png) 
 
